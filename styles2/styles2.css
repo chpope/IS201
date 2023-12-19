@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: crimson;
+    background-color: beige;
+}
+li {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+a{
+    color: rgb(0, 117, 207);
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
